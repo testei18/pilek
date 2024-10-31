@@ -1,8 +1,314 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Apocalipse" tvg-name="Apocalipse" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse Ep1
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep1
 https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/01/stream.m3u8
-#EXTINF:-1 tvg-id="Apocalipse" tvg-name="Apocalipse" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse Ep2
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep2
 https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/02/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep3
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/03/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep4
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/04/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep5
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/05/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep6
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/06/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep7
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/07/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep8
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/08/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep9
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/09/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep10
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/10/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep11
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/11/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep12
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/12/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep13
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/13/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep14
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/14/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep15
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/15/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep16
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/16/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep17
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/17/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep18
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/18/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep19
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/19/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep20
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/20/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep21
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/21/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep22
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/22/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep23
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/23/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep24
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/24/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep25
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/25/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep26
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/26/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep27
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/27/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep28
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/28/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep29
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/29/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep30
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/30/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep31
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/31/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep32
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/32/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep33
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/33/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep34
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/34/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep35
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/35/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep36
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/36/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep37
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/37/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep38
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/38/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep39
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/39/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep40
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/40/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep41
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/41/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep42
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/42/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep43
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/43/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep44
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/44/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep45
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/45/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep46
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/46/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep47
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/47/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep48
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/48/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep49
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/49/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep50
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/50/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep51
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/51/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep52
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/52/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep53
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/53/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep54
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/54/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep55
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/55/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep56
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/56/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep57
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/57/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep58
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/58/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep59
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/59/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep60
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/60/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep61
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/61/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep62
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/62/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep63
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/63/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep64
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/64/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep65
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/65/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep66
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/66/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep67
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/67/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep68
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/68/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep69
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/69/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep70
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/70/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep71
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/71/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep72
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/72/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep73
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/73/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep74
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/74/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep75
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/75/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep76
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/76/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep77
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/77/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep78
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/78/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep79
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/79/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep80
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/80/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep81
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/81/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep82
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/82/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep83
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/83/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep84
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/84/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep85
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/85/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep86
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/86/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep87
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/87/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep88
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/88/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep89
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/89/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep90
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/90/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep91
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/91/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep92
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/92/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep93
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/93/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep94
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/94/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep95
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/95/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep96
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/96/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep97
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/97/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep98
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/98/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep99
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/99/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep100
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/100/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep101
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/101/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep102
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/102/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep103
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/103/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep104
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/104/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep105
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/105/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep106
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/106/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep107
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/107/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep108
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/108/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep109
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/109/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep110
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/110/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep111
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/111/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep112
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/112/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep113
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/113/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep114
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/114/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep115
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/115/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep116
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/116/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep117
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/117/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep118
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/118/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep119
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/119/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep120
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/120/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep121
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/121/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep122
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/122/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep123
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/123/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep124
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/124/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep125
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/125/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep126
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/126/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep127
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/127/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep128
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/128/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep129
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/129/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep130
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/130/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep131
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/131/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep132
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/132/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep133
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/133/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep134
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/134/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep135
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/135/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep136
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/136/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep137
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/137/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep138
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/138/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep139
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/139/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep140
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/140/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep141
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/141/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep142
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/142/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep143
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/143/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep144
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/144/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep145
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/145/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep146
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/146/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep147
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/147/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep148
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/148/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep149
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/149/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep150
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/150/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep151
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/151/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep152
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/152/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep153
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/153/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep154
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/154/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="S�rie | PlayPlus",Apocalipse ep155
+https://zxn-003.sxrool.pw/A/apocalipse/01-temporada/155/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Força de Mulher" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher Ep1
 https://novelasflix.vip/storage8/FMULHER/FMULHER-001.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Força de Mulher" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher Ep2
