@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Bagman" tvg-logo="https://image.tmdb.org/t/p/w185/53IK9rlZJbwFYbNnJZiLq7UWxkT.jpg" group-title="Filme | NETFLIX",Bagman (2024)
+https://be6721.rcr72.waw04.cdn112.com/hls2/01/07127/d6pysc33dayy_h/index-v1-a1.m3u8?t=cuShTTUZBJ8o0roz-O3LgO9gUUEojJwTkQ4yI_BtC5I&s=1730422229&e=10800&f=35636833&srv=07&asn=268655&sp=4000&p=
 #EXTINF:-1 tvg-id="" tvg-name="Martha (2024)" tvg-logo="https://image.tmdb.org/t/p/w185/4WN19oCTXlK8jXC0QZgNkBpcJcw.jpg" group-title="Filme | NETFLIX",Martha (2024)
 https://be4242.rcr52.ams03.cdn112.com/hls2/01/07197/akptaz11nghr_h/index-v1-a1.m3u8?t=nWEc74RrCz9QeDjpWBHVMsWwpWLG1N4l6CGm3vOciXs&s=1730421260&e=10800&f=35987253&srv=11&asn=268655&sp=4000&p=
 #EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S01 Ep1" tvg-logo="https://cdn.weekseries.info/imagens/110316_size.webp" group-title="Anime",Alice in Borderland S01 Ep1
