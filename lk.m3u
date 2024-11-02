@@ -1,815 +1,171 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Bagman" tvg-logo="https://image.tmdb.org/t/p/w185/53IK9rlZJbwFYbNnJZiLq7UWxkT.jpg" group-title="Filme | NETFLIX",Bagman (2024)
-https://be6721.rcr72.waw04.cdn112.com/hls2/01/07127/d6pysc33dayy_h/index-v1-a1.m3u8?t=cuShTTUZBJ8o0roz-O3LgO9gUUEojJwTkQ4yI_BtC5I&s=1730422229&e=10800&f=35636833&srv=07&asn=268655&sp=4000&p=
-#EXTINF:-1 tvg-id="" tvg-name="Martha (2024)" tvg-logo="https://image.tmdb.org/t/p/w185/4WN19oCTXlK8jXC0QZgNkBpcJcw.jpg" group-title="Filme | NETFLIX",Martha (2024)
-https://be4242.rcr52.ams03.cdn112.com/hls2/01/07197/akptaz11nghr_h/index-v1-a1.m3u8?t=nWEc74RrCz9QeDjpWBHVMsWwpWLG1N4l6CGm3vOciXs&s=1730421260&e=10800&f=35987253&srv=11&asn=268655&sp=4000&p=
-#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S01 Ep1" tvg-logo="https://cdn.weekseries.info/imagens/110316_size.webp" group-title="Anime",Alice in Borderland S01 Ep1
-https://ddn-005.sxrool.pw/A/alice-in-borderland/01-temporada/01/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Manobra Radical" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://image.tmdb.org/t/p/w500/c2fnPEl982s65SEQefdfWxpzIzF.jpg" group-title="Filmes | Prime Video",Manobra Radical
-https://gambino6.com/cdn/down/disk12/a9ace2285115ea56452c513e90326352/Subtitle/subtitle_por.vtt
-#EXTINF:-1 tvg-id="" tvg-name="Pinguim (2024) S01" tvg-logo="https://noveflix.net/wp-content/uploads/2024/10/dsw8LywY7X8uA50IyJQgvbsReBo-200x300.jpg" group-title="Series | MAX",Pinguim (2024) S01 Ep1
-https://novelasflix.vip/storagePSN/SERIES/PINGUIM/PINGUIM1x01.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pinguim (2024) S01" tvg-logo="https://noveflix.net/wp-content/uploads/2024/10/dsw8LywY7X8uA50IyJQgvbsReBo-200x300.jpg" group-title="Series | MAX",Pinguim (2024) S01 Ep2
-https://novelasflix.vip/storagePSN/SERIES/PINGUIM/PINGUIM1x02.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pinguim (2024) S01" tvg-logo="https://noveflix.net/wp-content/uploads/2024/10/dsw8LywY7X8uA50IyJQgvbsReBo-200x300.jpg" group-title="Series | MAX",Pinguim (2024) S01 Ep3
-https://novelasflix.vip/storagePSN/SERIES/PINGUIM/PINGUIM1x03.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pinguim (2024) S01" tvg-logo="https://noveflix.net/wp-content/uploads/2024/10/dsw8LywY7X8uA50IyJQgvbsReBo-200x300.jpg" group-title="Series | MAX",Pinguim (2024) S01 Ep4
-https://novelasflix.vip/storagePSN/SERIES/PINGUIM/PINGUIM1x04.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pinguim (2024) S01" tvg-logo="https://noveflix.net/wp-content/uploads/2024/10/dsw8LywY7X8uA50IyJQgvbsReBo-200x300.jpg" group-title="Series | MAX",Pinguim (2024) S01 Ep5
-https://novelasflix.vip/storagePSN/SERIES/PINGUIM/PINGUIM1x05.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep1
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi001.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep2
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi002.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep3
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi003.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep4
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi004.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep5
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi005.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep6
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi006.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep7
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi007.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep8
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi008.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep9
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi009.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep10
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi010.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep11
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi011.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep12
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi012.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep13
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi013.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep14
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi014.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep15
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi015.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep16
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi016.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep17
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi017.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep18
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi018.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep19
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi019.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep20
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi020.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep21
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi021.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep22
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi022.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep23
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi023.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep24
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi024.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep25
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi025.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep26
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi026.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep27
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi027.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep28
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi028.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep29
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi029.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep30
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi030.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep31
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi031.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep32
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi032.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep33
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi033.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep34
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi034.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep35
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi035.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep36
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi036.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep37
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi037.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep38
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi038.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep39
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi039.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep40
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi040.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep41
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi041.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep42
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi042.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep43
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi043.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep44
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi044.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep45
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi045.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep46
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi046.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep47
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi047.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep48
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi048.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep49
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi049.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep50
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi050.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep51
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi051.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep52
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi052.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep53
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi053.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep54
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi054.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep55
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi055.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep56
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi056.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep57
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi057.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep58
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi058.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep59
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi059.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep60
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi060.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep61
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi061.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep62
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi062.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep63
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi063.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep64
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi064.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep65
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi065.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep66
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi066.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep67
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi067.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep68
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi068.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep69
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi069.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep70
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi070.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep71
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi071.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep72
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi072.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep73
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi073.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep74
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi074.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep75
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi075.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep76
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi076.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep77
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi077.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep78
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi078.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep79
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi079.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep80
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi080.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep81
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi081.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep82
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi082.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep83
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi083.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep84
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi084.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep85
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi085.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep86
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi086.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep87
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi087.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep88
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi088.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep89
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi089.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep90
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi090.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep91
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi091.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep92
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi092.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep93
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi093.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep94
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi094.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep95
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi095.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep96
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi096.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep97
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi097.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep98
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi098.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep99
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi099.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep100
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi100.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep101
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi101.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep102
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi102.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep103
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi103.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep104
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi104.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep105
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi105.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep106
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi106.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep107
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi107.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep108
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi108.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep109
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi109.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep110
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi110.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep111
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi111.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep112
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi112.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep113
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi113.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep114
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi114.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep115
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi115.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep116
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi116.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep117
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi117.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep118
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi118.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep119
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi119.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep120
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi120.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep121
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi121.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep122
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi122.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep123
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi123.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep124
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi124.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep125
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi125.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep126
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi126.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep127
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi127.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep128
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi128.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep129
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi129.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep130
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi130.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep131
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi131.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep132
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi132.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep133
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi133.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep134
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi134.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep135
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi135.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep136
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi136.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep137
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi137.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep138
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi138.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep139
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi139.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep140
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi140.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep141
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi141.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep142
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi142.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep143
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi143.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep144
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi144.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep145
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi145.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep146
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi146.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep147
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi147.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep148
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi148.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep149
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi149.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep150
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi150.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep151
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi151.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep152
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi152.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep153
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi153.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep154
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi154.mp4
-#EXTINF:-1 tvg-id="" tvg-name="APOCALIPSE" tvg-logo="https://cdn.weekseries.info/imagens/75209_size.webp" group-title="Série | PlayPlus",Apocalipse ep155
-https://novelasflix.vip/storage2/APO/APOzJ8ZbkUekz24eeeVxdBUi155.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP192" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep192
-https://novelasflix.vip/storage8/FMULHER/FMULHER-192.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP193" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep193
-https://novelasflix.vip/storage8/FMULHER/FMULHER-193.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP194" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep194
-https://novelasflix.vip/storage8/FMULHER/FMULHER-194.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP195" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep195
-https://novelasflix.vip/storage8/FMULHER/FMULHER-195.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP196" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep196
-https://novelasflix.vip/storage8/FMULHER/FMULHER-196.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP197" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep197
-https://novelasflix.vip/storage8/FMULHER/FMULHER-197.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP198" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep198
-https://novelasflix.vip/storage8/FMULHER/FMULHER-198.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP199" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep199
-https://novelasflix.vip/storage8/FMULHER/FMULHER-199.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP200" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep200
-https://novelasflix.vip/storage8/FMULHER/FMULHER-200.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP201" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep201
-https://novelasflix.vip/storage8/FMULHER/FMULHER-201.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP202" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep202
-https://novelasflix.vip/storage8/FMULHER/FMULHER-202.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP203" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep203
-https://novelasflix.vip/storage8/FMULHER/FMULHER-203.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP204" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep204
-https://novelasflix.vip/storage8/FMULHER/FMULHER-204.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP205" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep205
-https://novelasflix.vip/storage8/FMULHER/FMULHER-205.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP206" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep206
-https://novelasflix.vip/storage8/FMULHER/FMULHER-206.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP207" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep207
-https://novelasflix.vip/storage8/FMULHER/FMULHER-207.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP208" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep208
-https://novelasflix.vip/storage8/FMULHER/FMULHER-208.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP209" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep209
-https://novelasflix.vip/storage8/FMULHER/FMULHER-209.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP210" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep210
-https://novelasflix.vip/storage8/FMULHER/FMULHER-210.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP211" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep211
-https://novelasflix.vip/storage8/FMULHER/FMULHER-211.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP212" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep212
-https://novelasflix.vip/storage8/FMULHER/FMULHER-212.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP213" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep213
-https://novelasflix.vip/storage8/FMULHER/FMULHER-213.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP214" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep214
-https://novelasflix.vip/storage8/FMULHER/FMULHER-214.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP215" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep215
-https://novelasflix.vip/storage8/FMULHER/FMULHER-215.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP216" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep216
-https://novelasflix.vip/storage8/FMULHER/FMULHER-216.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP217" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep217
-https://novelasflix.vip/storage8/FMULHER/FMULHER-217.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP218" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep218
-https://novelasflix.vip/storage8/FMULHER/FMULHER-218.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP219" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep219
-https://novelasflix.vip/storage8/FMULHER/FMULHER-219.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP220" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep220
-https://novelasflix.vip/storage8/FMULHER/FMULHER-220.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP221" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep221
-https://novelasflix.vip/storage8/FMULHER/FMULHER-221.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP222" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep222
-https://novelasflix.vip/storage8/FMULHER/FMULHER-222.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP223" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep223
-https://novelasflix.vip/storage8/FMULHER/FMULHER-223.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP224" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep224
-https://novelasflix.vip/storage8/FMULHER/FMULHER-224.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP225" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep225
-https://novelasflix.vip/storage8/FMULHER/FMULHER-225.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP226" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep226
-https://novelasflix.vip/storage8/FMULHER/FMULHER-226.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP227" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep227
-https://novelasflix.vip/storage8/FMULHER/FMULHER-227.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP228" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep228
-https://novelasflix.vip/storage8/FMULHER/FMULHER-228.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP229" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep229
-https://novelasflix.vip/storage8/FMULHER/FMULHER-229.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP230" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep230
-https://novelasflix.vip/storage8/FMULHER/FMULHER-230.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP231" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep231
-https://novelasflix.vip/storage8/FMULHER/FMULHER-231.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP232" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep232
-https://novelasflix.vip/storage8/FMULHER/FMULHER-232.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP233" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep233
-https://novelasflix.vip/storage8/FMULHER/FMULHER-233.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP234" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep234
-https://novelasflix.vip/storage8/FMULHER/FMULHER-234.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP235" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep235
-https://novelasflix.vip/storage8/FMULHER/FMULHER-235.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP236" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep236
-https://novelasflix.vip/storage8/FMULHER/FMULHER-236.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP237" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep237
-https://novelasflix.vip/storage8/FMULHER/FMULHER-237.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP238" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep238
-https://novelasflix.vip/storage8/FMULHER/FMULHER-238.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP239" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep239
-https://novelasflix.vip/storage8/FMULHER/FMULHER-239.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP240" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep240
-https://novelasflix.vip/storage8/FMULHER/FMULHER-240.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP241" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep241
-https://novelasflix.vip/storage8/FMULHER/FMULHER-241.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S03 EP242" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S03 Ep242
-https://novelasflix.vip/storage8/FMULHER/FMULHER-242.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP98" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep98
-https://novelasflix.vip/storage8/FMULHER/FMULHER-98.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP99" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep99
-https://novelasflix.vip/storage8/FMULHER/FMULHER-99.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP100" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep100
-https://novelasflix.vip/storage8/FMULHER/FMULHER-100.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP101" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep101
-https://novelasflix.vip/storage8/FMULHER/FMULHER-101.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP102" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep102
-https://novelasflix.vip/storage8/FMULHER/FMULHER-102.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP103" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep103
-https://novelasflix.vip/storage8/FMULHER/FMULHER-103.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP104" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep104
-https://novelasflix.vip/storage8/FMULHER/FMULHER-104.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP105" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep105
-https://novelasflix.vip/storage8/FMULHER/FMULHER-105.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP106" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep106
-https://novelasflix.vip/storage8/FMULHER/FMULHER-106.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP107" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep107
-https://novelasflix.vip/storage8/FMULHER/FMULHER-107.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP108" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep108
-https://novelasflix.vip/storage8/FMULHER/FMULHER-108.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP109" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep109
-https://novelasflix.vip/storage8/FMULHER/FMULHER-109.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP110" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep110
-https://novelasflix.vip/storage8/FMULHER/FMULHER-110.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP111" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep111
-https://novelasflix.vip/storage8/FMULHER/FMULHER-111.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP112" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep112
-https://novelasflix.vip/storage8/FMULHER/FMULHER-112.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP113" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep113
-https://novelasflix.vip/storage8/FMULHER/FMULHER-113.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP114" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep114
-https://novelasflix.vip/storage8/FMULHER/FMULHER-114.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP115" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep115
-https://novelasflix.vip/storage8/FMULHER/FMULHER-115.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP116" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep116
-https://novelasflix.vip/storage8/FMULHER/FMULHER-116.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP117" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep117
-https://novelasflix.vip/storage8/FMULHER/FMULHER-117.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP118" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep118
-https://novelasflix.vip/storage8/FMULHER/FMULHER-118.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP119" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep119
-https://novelasflix.vip/storage8/FMULHER/FMULHER-119.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP120" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep120
-https://novelasflix.vip/storage8/FMULHER/FMULHER-120.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP121" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep121
-https://novelasflix.vip/storage8/FMULHER/FMULHER-121.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP122" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep122
-https://novelasflix.vip/storage8/FMULHER/FMULHER-122.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP123" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep123
-https://novelasflix.vip/storage8/FMULHER/FMULHER-123.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP124" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep124
-https://novelasflix.vip/storage8/FMULHER/FMULHER-124.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP125" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep125
-https://novelasflix.vip/storage8/FMULHER/FMULHER-125.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP126" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep126
-https://novelasflix.vip/storage8/FMULHER/FMULHER-126.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP127" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep127
-https://novelasflix.vip/storage8/FMULHER/FMULHER-127.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP128" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep128
-https://novelasflix.vip/storage8/FMULHER/FMULHER-128.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP129" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep129
-https://novelasflix.vip/storage8/FMULHER/FMULHER-129.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP130" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep130
-https://novelasflix.vip/storage8/FMULHER/FMULHER-130.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP131" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep131
-https://novelasflix.vip/storage8/FMULHER/FMULHER-131.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP132" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep132
-https://novelasflix.vip/storage8/FMULHER/FMULHER-132.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP133" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep133
-https://novelasflix.vip/storage8/FMULHER/FMULHER-133.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP134" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep134
-https://novelasflix.vip/storage8/FMULHER/FMULHER-134.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP135" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep135
-https://novelasflix.vip/storage8/FMULHER/FMULHER-135.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP136" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep136
-https://novelasflix.vip/storage8/FMULHER/FMULHER-136.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP137" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep137
-https://novelasflix.vip/storage8/FMULHER/FMULHER-137.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP138" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep138
-https://novelasflix.vip/storage8/FMULHER/FMULHER-138.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP139" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep139
-https://novelasflix.vip/storage8/FMULHER/FMULHER-139.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP140" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep140
-https://novelasflix.vip/storage8/FMULHER/FMULHER-140.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP141" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep141
-https://novelasflix.vip/storage8/FMULHER/FMULHER-141.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP142" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep142
-https://novelasflix.vip/storage8/FMULHER/FMULHER-142.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP143" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep143
-https://novelasflix.vip/storage8/FMULHER/FMULHER-143.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP144" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep144
-https://novelasflix.vip/storage8/FMULHER/FMULHER-144.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP145" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep145
-https://novelasflix.vip/storage8/FMULHER/FMULHER-145.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP146" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep146
-https://novelasflix.vip/storage8/FMULHER/FMULHER-146.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP147" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep147
-https://novelasflix.vip/storage8/FMULHER/FMULHER-147.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP148" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep148
-https://novelasflix.vip/storage8/FMULHER/FMULHER-148.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP149" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep149
-https://novelasflix.vip/storage8/FMULHER/FMULHER-149.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP150" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep150
-https://novelasflix.vip/storage8/FMULHER/FMULHER-150.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP151" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep151
-https://novelasflix.vip/storage8/FMULHER/FMULHER-151.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP152" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep152
-https://novelasflix.vip/storage8/FMULHER/FMULHER-152.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP153" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep153
-https://novelasflix.vip/storage8/FMULHER/FMULHER-153.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP154" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep154
-https://novelasflix.vip/storage8/FMULHER/FMULHER-154.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP155" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep155
-https://novelasflix.vip/storage8/FMULHER/FMULHER-155.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP156" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep156
-https://novelasflix.vip/storage8/FMULHER/FMULHER-156.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP157" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep157
-https://novelasflix.vip/storage8/FMULHER/FMULHER-157.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP158" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep158
-https://novelasflix.vip/storage8/FMULHER/FMULHER-158.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP159" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep159
-https://novelasflix.vip/storage8/FMULHER/FMULHER-159.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP160" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep160
-https://novelasflix.vip/storage8/FMULHER/FMULHER-160.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP161" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep161
-https://novelasflix.vip/storage8/FMULHER/FMULHER-161.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP162" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep162
-https://novelasflix.vip/storage8/FMULHER/FMULHER-162.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP163" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep163
-https://novelasflix.vip/storage8/FMULHER/FMULHER-163.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP164" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep164
-https://novelasflix.vip/storage8/FMULHER/FMULHER-164.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP165" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep165
-https://novelasflix.vip/storage8/FMULHER/FMULHER-165.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP166" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep166
-https://novelasflix.vip/storage8/FMULHER/FMULHER-166.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP167" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep167
-https://novelasflix.vip/storage8/FMULHER/FMULHER-167.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP168" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep168
-https://novelasflix.vip/storage8/FMULHER/FMULHER-168.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP169" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep169
-https://novelasflix.vip/storage8/FMULHER/FMULHER-169.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP170" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep170
-https://novelasflix.vip/storage8/FMULHER/FMULHER-170.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP171" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep171
-https://novelasflix.vip/storage8/FMULHER/FMULHER-171.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP172" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep172
-https://novelasflix.vip/storage8/FMULHER/FMULHER-172.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP173" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep173
-https://novelasflix.vip/storage8/FMULHER/FMULHER-173.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP174" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep174
-https://novelasflix.vip/storage8/FMULHER/FMULHER-174.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP175" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep175
-https://novelasflix.vip/storage8/FMULHER/FMULHER-175.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP176" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep176
-https://novelasflix.vip/storage8/FMULHER/FMULHER-176.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP177" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep177
-https://novelasflix.vip/storage8/FMULHER/FMULHER-177.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP178" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep178
-https://novelasflix.vip/storage8/FMULHER/FMULHER-178.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP179" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep179
-https://novelasflix.vip/storage8/FMULHER/FMULHER-179.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP180" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep180
-https://novelasflix.vip/storage8/FMULHER/FMULHER-180.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP181" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep181
-https://novelasflix.vip/storage8/FMULHER/FMULHER-181.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP182" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep182
-https://novelasflix.vip/storage8/FMULHER/FMULHER-182.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP183" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep183
-https://novelasflix.vip/storage8/FMULHER/FMULHER-183.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP184" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep184
-https://novelasflix.vip/storage8/FMULHER/FMULHER-184.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP185" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep185
-https://novelasflix.vip/storage8/FMULHER/FMULHER-185.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP186" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep186
-https://novelasflix.vip/storage8/FMULHER/FMULHER-186.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP187" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep187
-https://novelasflix.vip/storage8/FMULHER/FMULHER-187.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP188" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep188
-https://novelasflix.vip/storage8/FMULHER/FMULHER-188.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP189" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep189
-https://novelasflix.vip/storage8/FMULHER/FMULHER-189.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP190" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep190
-https://novelasflix.vip/storage8/FMULHER/FMULHER-190.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP191" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep191
-https://novelasflix.vip/storage8/FMULHER/FMULHER-191.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S02 EP192" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S02 Ep192
-https://novelasflix.vip/storage8/FMULHER/FMULHER-192.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP1" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep1
-https://novelasflix.vip/storage8/FMULHER/FMULHER-01.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP2" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep2
-https://novelasflix.vip/storage8/FMULHER/FMULHER-02.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP3" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep3
-https://novelasflix.vip/storage8/FMULHER/FMULHER-03.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP4" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep4
-https://novelasflix.vip/storage8/FMULHER/FMULHER-04.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP5" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep5
-https://novelasflix.vip/storage8/FMULHER/FMULHER-05.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP6" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep6
-https://novelasflix.vip/storage8/FMULHER/FMULHER-06.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP7" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep7
-https://novelasflix.vip/storage8/FMULHER/FMULHER-07.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP8" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep8
-https://novelasflix.vip/storage8/FMULHER/FMULHER-08.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP9" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep9
-https://novelasflix.vip/storage8/FMULHER/FMULHER-09.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP10" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep10
-https://novelasflix.vip/storage8/FMULHER/FMULHER-10.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP11" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep11
-https://novelasflix.vip/storage8/FMULHER/FMULHER-11.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP12" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep12
-https://novelasflix.vip/storage8/FMULHER/FMULHER-12.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP13" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep13
-https://novelasflix.vip/storage8/FMULHER/FMULHER-13.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP14" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep14
-https://novelasflix.vip/storage8/FMULHER/FMULHER-14.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP15" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep15
-https://novelasflix.vip/storage8/FMULHER/FMULHER-15.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP16" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep16
-https://novelasflix.vip/storage8/FMULHER/FMULHER-16.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP17" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep17
-https://novelasflix.vip/storage8/FMULHER/FMULHER-17.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP18" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep18
-https://novelasflix.vip/storage8/FMULHER/FMULHER-18.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP19" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep19
-https://novelasflix.vip/storage8/FMULHER/FMULHER-19.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP20" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep20
-https://novelasflix.vip/storage8/FMULHER/FMULHER-20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP21" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep21
-https://novelasflix.vip/storage8/FMULHER/FMULHER-21.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP22" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep22
-https://novelasflix.vip/storage8/FMULHER/FMULHER-22.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP23" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep23
-https://novelasflix.vip/storage8/FMULHER/FMULHER-23.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP24" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep24
-https://novelasflix.vip/storage8/FMULHER/FMULHER-24.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP25" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep25
-https://novelasflix.vip/storage8/FMULHER/FMULHER-25.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP26" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep26
-https://novelasflix.vip/storage8/FMULHER/FMULHER-26.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP27" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep27
-https://novelasflix.vip/storage8/FMULHER/FMULHER-27.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP28" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep28
-https://novelasflix.vip/storage8/FMULHER/FMULHER-28.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP29" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep29
-https://novelasflix.vip/storage8/FMULHER/FMULHER-29.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP30" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep30
-https://novelasflix.vip/storage8/FMULHER/FMULHER-30.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP31" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep31
-https://novelasflix.vip/storage8/FMULHER/FMULHER-31.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP32" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep32
-https://novelasflix.vip/storage8/FMULHER/FMULHER-32.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP33" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep33
-https://novelasflix.vip/storage8/FMULHER/FMULHER-33.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP34" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep34
-https://novelasflix.vip/storage8/FMULHER/FMULHER-34.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP35" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep35
-https://novelasflix.vip/storage8/FMULHER/FMULHER-35.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP36" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep36
-https://novelasflix.vip/storage8/FMULHER/FMULHER-36.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP37" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep37
-https://novelasflix.vip/storage8/FMULHER/FMULHER-37.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP38" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep38
-https://novelasflix.vip/storage8/FMULHER/FMULHER-38.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP39" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep39
-https://novelasflix.vip/storage8/FMULHER/FMULHER-39.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP40" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep40
-https://novelasflix.vip/storage8/FMULHER/FMULHER-40.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP41" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep41
-https://novelasflix.vip/storage8/FMULHER/FMULHER-41.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP42" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep42
-https://novelasflix.vip/storage8/FMULHER/FMULHER-42.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP43" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep43
-https://novelasflix.vip/storage8/FMULHER/FMULHER-43.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP44" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep44
-https://novelasflix.vip/storage8/FMULHER/FMULHER-44.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP45" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep45
-https://novelasflix.vip/storage8/FMULHER/FMULHER-45.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP46" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep46
-https://novelasflix.vip/storage8/FMULHER/FMULHER-46.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP47" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep47
-https://novelasflix.vip/storage8/FMULHER/FMULHER-47.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP48" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep48
-https://novelasflix.vip/storage8/FMULHER/FMULHER-48.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP49" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep49
-https://novelasflix.vip/storage8/FMULHER/FMULHER-49.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP50" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep50
-https://novelasflix.vip/storage8/FMULHER/FMULHER-50.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP51" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep51
-https://novelasflix.vip/storage8/FMULHER/FMULHER-51.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP52" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep52
-https://novelasflix.vip/storage8/FMULHER/FMULHER-52.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP53" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep53
-https://novelasflix.vip/storage8/FMULHER/FMULHER-53.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP54" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep54
-https://novelasflix.vip/storage8/FMULHER/FMULHER-54.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP55" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep55
-https://novelasflix.vip/storage8/FMULHER/FMULHER-55.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP56" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep56
-https://novelasflix.vip/storage8/FMULHER/FMULHER-56.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP57" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep57
-https://novelasflix.vip/storage8/FMULHER/FMULHER-57.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP58" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep58
-https://novelasflix.vip/storage8/FMULHER/FMULHER-58.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP59" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep59
-https://novelasflix.vip/storage8/FMULHER/FMULHER-59.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP60" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep60
-https://novelasflix.vip/storage8/FMULHER/FMULHER-60.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP61" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep61
-https://novelasflix.vip/storage8/FMULHER/FMULHER-61.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP62" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep62
-https://novelasflix.vip/storage8/FMULHER/FMULHER-62.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP63" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep63
-https://novelasflix.vip/storage8/FMULHER/FMULHER-63.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP64" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep64
-https://novelasflix.vip/storage8/FMULHER/FMULHER-64.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP65" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep65
-https://novelasflix.vip/storage8/FMULHER/FMULHER-65.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP66" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep66
-https://novelasflix.vip/storage8/FMULHER/FMULHER-66.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP67" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep67
-https://novelasflix.vip/storage8/FMULHER/FMULHER-67.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP68" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep68
-https://novelasflix.vip/storage8/FMULHER/FMULHER-68.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP69" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep69
-https://novelasflix.vip/storage8/FMULHER/FMULHER-69.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP70" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep70
-https://novelasflix.vip/storage8/FMULHER/FMULHER-70.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP71" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep71
-https://novelasflix.vip/storage8/FMULHER/FMULHER-71.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP72" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep72
-https://novelasflix.vip/storage8/FMULHER/FMULHER-72.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP73" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep73
-https://novelasflix.vip/storage8/FMULHER/FMULHER-73.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP74" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep74
-https://novelasflix.vip/storage8/FMULHER/FMULHER-74.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP75" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep75
-https://novelasflix.vip/storage8/FMULHER/FMULHER-75.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP76" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep76
-https://novelasflix.vip/storage8/FMULHER/FMULHER-76.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP77" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep77
-https://novelasflix.vip/storage8/FMULHER/FMULHER-77.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP78" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep78
-https://novelasflix.vip/storage8/FMULHER/FMULHER-78.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP79" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep79
-https://novelasflix.vip/storage8/FMULHER/FMULHER-79.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP80" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep80
-https://novelasflix.vip/storage8/FMULHER/FMULHER-80.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP81" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep81
-https://novelasflix.vip/storage8/FMULHER/FMULHER-81.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP82" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep82
-https://novelasflix.vip/storage8/FMULHER/FMULHER-82.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP83" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep83
-https://novelasflix.vip/storage8/FMULHER/FMULHER-83.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP84" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep84
-https://novelasflix.vip/storage8/FMULHER/FMULHER-84.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP85" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep85
-https://novelasflix.vip/storage8/FMULHER/FMULHER-85.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP86" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep86
-https://novelasflix.vip/storage8/FMULHER/FMULHER-86.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP87" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep87
-https://novelasflix.vip/storage8/FMULHER/FMULHER-87.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP88" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep88
-https://novelasflix.vip/storage8/FMULHER/FMULHER-88.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP89" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep89
-https://novelasflix.vip/storage8/FMULHER/FMULHER-89.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP90" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep90
-https://novelasflix.vip/storage8/FMULHER/FMULHER-90.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP91" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep91
-https://novelasflix.vip/storage8/FMULHER/FMULHER-91.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP92" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep92
-https://novelasflix.vip/storage8/FMULHER/FMULHER-92.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP93" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep93
-https://novelasflix.vip/storage8/FMULHER/FMULHER-93.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP94" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep94
-https://novelasflix.vip/storage8/FMULHER/FMULHER-94.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP95" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep95
-https://novelasflix.vip/storage8/FMULHER/FMULHER-95.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP96" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep96
-https://novelasflix.vip/storage8/FMULHER/FMULHER-96.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Força de Mulher S01 EP97" tvg-logo="https://noveflix.net/wp-content/uploads/2024/03/2539-poster-200x300.jpg" group-title="Série | MAX",Força de Mulher S01 Ep97
-https://novelasflix.vip/storage8/FMULHER/FMULHER-97.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 1" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 1
+https://novelasflix.vip/storage8/MAE/MAE-01.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 2" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 2
+https://novelasflix.vip/storage8/MAE/MAE-02.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 3" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 3
+https://novelasflix.vip/storage8/MAE/MAE-03.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 4" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 4
+https://novelasflix.vip/storage8/MAE/MAE-04.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 5" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 5
+https://novelasflix.vip/storage8/MAE/MAE-05.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 6" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 6
+https://novelasflix.vip/storage8/MAE/MAE-06.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 7" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 7
+https://novelasflix.vip/storage8/MAE/MAE-07.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 8" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 8
+https://novelasflix.vip/storage8/MAE/MAE-08.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 9" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 9
+https://novelasflix.vip/storage8/MAE/MAE-09.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 10" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 10
+https://novelasflix.vip/storage8/MAE/MAE-10.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 11" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 11
+https://novelasflix.vip/storage8/MAE/MAE-11.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 12" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 12
+https://novelasflix.vip/storage8/MAE/MAE-12.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 13" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 13
+https://novelasflix.vip/storage8/MAE/MAE-13.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 14" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 14
+https://novelasflix.vip/storage8/MAE/MAE-14.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 15" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 15
+https://novelasflix.vip/storage8/MAE/MAE-15.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 16" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 16
+https://novelasflix.vip/storage8/MAE/MAE-16.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 17" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 17
+https://novelasflix.vip/storage8/MAE/MAE-17.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 18" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 18
+https://novelasflix.vip/storage8/MAE/MAE-18.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 19" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 19
+https://novelasflix.vip/storage8/MAE/MAE-19.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 20" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 20
+https://novelasflix.vip/storage8/MAE/MAE-20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 21" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 21
+https://novelasflix.vip/storage8/MAE/MAE-21.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 22" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 22
+https://novelasflix.vip/storage8/MAE/MAE-22.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 23" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 23
+https://novelasflix.vip/storage8/MAE/MAE-23.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 24" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 24
+https://novelasflix.vip/storage8/MAE/MAE-24.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 25" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 25
+https://novelasflix.vip/storage8/MAE/MAE-25.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 26" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 26
+https://novelasflix.vip/storage8/MAE/MAE-26.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 27" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 27
+https://novelasflix.vip/storage8/MAE/MAE-27.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 28" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 28
+https://novelasflix.vip/storage8/MAE/MAE-28.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 29" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 29
+https://novelasflix.vip/storage8/MAE/MAE-29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 30" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 30
+https://novelasflix.vip/storage8/MAE/MAE-30.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 31" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 31
+https://novelasflix.vip/storage8/MAE/MAE-31.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 32" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 32
+https://novelasflix.vip/storage8/MAE/MAE-32.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 33" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 33
+https://novelasflix.vip/storage8/MAE/MAE-33.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 34" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 34
+https://novelasflix.vip/storage8/MAE/MAE-34.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 35" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 35
+https://novelasflix.vip/storage8/MAE/MAE-35.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 36" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 36
+https://novelasflix.vip/storage8/MAE/MAE-36.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 37" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 37
+https://novelasflix.vip/storage8/MAE/MAE-37.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 38" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 38
+https://novelasflix.vip/storage8/MAE/MAE-38.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 39" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 39
+https://novelasflix.vip/storage8/MAE/MAE-39.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 40" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 40
+https://novelasflix.vip/storage8/MAE/MAE-40.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 41" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 41
+https://novelasflix.vip/storage8/MAE/MAE-41.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 42" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 42
+https://novelasflix.vip/storage8/MAE/MAE-42.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 43" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 43
+https://novelasflix.vip/storage8/MAE/MAE-43.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 44" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 44
+https://novelasflix.vip/storage8/MAE/MAE-44.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 45" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 45
+https://novelasflix.vip/storage8/MAE/MAE-45.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 46" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 46
+https://novelasflix.vip/storage8/MAE/MAE-46.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 47" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 47
+https://novelasflix.vip/storage8/MAE/MAE-47.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 48" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 48
+https://novelasflix.vip/storage8/MAE/MAE-48.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 49" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 49
+https://novelasflix.vip/storage8/MAE/MAE-49.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 50" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 50
+https://novelasflix.vip/storage8/MAE/MAE-50.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 51" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 51
+https://novelasflix.vip/storage8/MAE/MAE-51.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 52" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 52
+https://novelasflix.vip/storage8/MAE/MAE-52.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 53" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 53
+https://novelasflix.vip/storage8/MAE/MAE-53.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 54" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 54
+https://novelasflix.vip/storage8/MAE/MAE-54.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 55" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 55
+https://novelasflix.vip/storage8/MAE/MAE-55.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 56" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 56
+https://novelasflix.vip/storage8/MAE/MAE-56.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 57" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 57
+https://novelasflix.vip/storage8/MAE/MAE-57.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 58" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 58
+https://novelasflix.vip/storage8/MAE/MAE-58.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 59" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 59
+https://novelasflix.vip/storage8/MAE/MAE-59.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 60" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 60
+https://novelasflix.vip/storage8/MAE/MAE-60.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 61" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 61
+https://novelasflix.vip/storage8/MAE/MAE-61.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 62" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 62
+https://novelasflix.vip/storage8/MAE/MAE-62.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 63" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 63
+https://novelasflix.vip/storage8/MAE/MAE-63.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 64" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 64
+https://novelasflix.vip/storage8/MAE/MAE-64.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 65" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 65
+https://novelasflix.vip/storage8/MAE/MAE-65.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 66" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 66
+https://novelasflix.vip/storage8/MAE/MAE-66.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 67" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 67
+https://novelasflix.vip/storage8/MAE/MAE-67.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 68" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 68
+https://novelasflix.vip/storage8/MAE/MAE-68.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 69" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 69
+https://novelasflix.vip/storage8/MAE/MAE-69.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 70" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 70
+https://novelasflix.vip/storage8/MAE/MAE-70.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 71" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 71
+https://novelasflix.vip/storage8/MAE/MAE-71.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 72" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 72
+https://novelasflix.vip/storage8/MAE/MAE-72.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 73" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 73
+https://novelasflix.vip/storage8/MAE/MAE-73.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 74" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 74
+https://novelasflix.vip/storage8/MAE/MAE-74.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 75" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 75
+https://novelasflix.vip/storage8/MAE/MAE-75.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 76" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 76
+https://novelasflix.vip/storage8/MAE/MAE-76.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 77" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 77
+https://novelasflix.vip/storage8/MAE/MAE-77.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 78" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 78
+https://novelasflix.vip/storage8/MAE/MAE-78.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 79" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 79
+https://novelasflix.vip/storage8/MAE/MAE-79.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 80" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 80
+https://novelasflix.vip/storage8/MAE/MAE-80.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 81" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 81
+https://novelasflix.vip/storage8/MAE/MAE-81.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 82" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 82
+https://novelasflix.vip/storage8/MAE/MAE-82.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 83" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 83
+https://novelasflix.vip/storage8/MAE/MAE-83.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 84" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 84
+https://novelasflix.vip/storage8/MAE/MAE-84.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 85" tvg-logo="https://noveflix.net/wp-content/uploads/2023/03/mae-185x278-1.jpg" group-title="Série | GloboPlay",Força de Mulher Ep 85
+https://novelasflix.vip/storage8/MAE/MAE-85.mp4
