@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 1" tvg-logo="https://i.ibb.co/pLkc4x4/.jpg" group-title="Série | MAX",oi Ep 1
+https://s03.nm-cdn.top/files/81035908/a/13/13.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 1" tvg-logo="https://i.ibb.co/pLkc4x4/2008.jpg" group-title="Série | MAX",Mãe (Anne) Ep 1
 https://dlcvn-my.sharepoint.com/personal/nguyenvanduan_d01dcpt07c_mail_ptit_tech/_layouts/15/download.aspx?share=EfbhdhYCPJlNhHWpLZD_OyMBor80Nmwa5Pjm1pZqiOx03A
 #EXTINF:-1 tvg-id="" tvg-name="Mãe (Anne) 2" tvg-logo="https://i.ibb.co/pLkc4x4/2008.jpg" group-title="Série | MAX",Mãe (Anne) Ep 2
