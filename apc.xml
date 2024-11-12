@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="Apocalipse.HD">
+    <display-name>Apocalipse</display-name>
+    <icon src="https://noveflix.net/wp-content/uploads/2023/03/apocalipse-1-185x278-1.jpg"/>
+  </channel>
+  <programme channel="Apocalipse.HD" start="20230101000000" stop="20230101004500">
+    <title>Apocalipse Ep 1</title>
+    <desc>Apocalipse Episódio 1</desc>
+  </programme>
+  <programme channel="Apocalipse.HD" start="20230101004500" stop="20230101009000">
+    <title>Apocalipse Ep 2</title>
+    <desc>Apocalipse Episódio 2</desc>
+  </programme>
+</tv>
