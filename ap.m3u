@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Arcane S02 Ep 1" tvg-logo="https://image.tmdb.org/t/p/w185/abf8tHznhSvl9BAElD2cQeRr7do.jpg" group-title="Série | Netflix",Arcane S02 Ep 1
+https://be4235.rcr32.ams02.cdn112.com/hls2/01/07270/uzntjed1kkl9_h/master.m3u8?t=y1tp7ZMqMkoOr4_rlB-VX0v4Iv56_wo5XBAGjLGzBME&s=1731872775&e=10800&f=36354246&srv=03&asn=268655&sp=4000&p=
+#EXTINF:-1 tvg-id="" tvg-name="Arcane S02 Ep 2" tvg-logo="https://image.tmdb.org/t/p/w185/abf8tHznhSvl9BAElD2cQeRr7do.jpg" group-title="Série | Netflix",Arcane S02 Ep 2
+https://be4242.rcr52.ams03.cdn112.com/hls2/02/07270/7na210unnr9f_h/master.m3u8?t=pHATe_PFykbn3i7WX7uTSSWG-OGUK_4PcohXV9BWnh4&s=1731872826&e=10800&f=36353541&srv=28&asn=268655&sp=4000&p=
+#EXTINF:-1 tvg-id="" tvg-name="Arcane S02 Ep 3" tvg-logo="https://image.tmdb.org/t/p/w185/abf8tHznhSvl9BAElD2cQeRr7do.jpg" group-title="Série | Netflix",Arcane S02 Ep 3
+https://be7713.rcr82.waw05.cdn112.com/hls2/01/07270/mntxt3ga2gan_h/master.m3u8?t=6wjRE0yqUHPx9cywd3lMj7OmtEBjE4Loq84n7t_tCkk&s=1731872911&e=10800&f=36353549&srv=25&asn=268655&sp=4000&p=
+#EXTINF:-1 tvg-id="" tvg-name="Arcane S02 Ep 4" tvg-logo="https://image.tmdb.org/t/p/w185/abf8tHznhSvl9BAElD2cQeRr7do.jpg" group-title="Série | Netflix",Arcane S02 Ep 4
+https://be4235.rcr32.ams02.cdn112.com/hls2/03/07327/cpb128trec5j_h/master.m3u8?t=R0oXd8MykESCzNjx6F3ylJow92_iGxrfo88BYQJ10TQ&s=1731872937&e=10800&f=36637570&srv=30&asn=268655&sp=4000&p=
+#EXTINF:-1 tvg-id="" tvg-name="Arcane S02 Ep 5" tvg-logo="https://image.tmdb.org/t/p/w185/abf8tHznhSvl9BAElD2cQeRr7do.jpg" group-title="Série | Netflix",Arcane S02 Ep 5
+https://be2719.rcr22.ams01.cdn112.com/hls2/06/07327/kdw07wh1hbg9_h/master.m3u8?t=FF2U6eF_BfgbAfQm3oH0Ud8Jy6T-qqUSRNn8v_VrlH8&s=1731872960&e=10800&f=36636554&srv=53&asn=268655&sp=4000&p=
+#EXTINF:-1 tvg-id="" tvg-name="Arcane S02 Ep 6" tvg-logo="https://image.tmdb.org/t/p/w185/abf8tHznhSvl9BAElD2cQeRr7do.jpg" group-title="Série | Netflix",Arcane S02 Ep 6
+https://be6721.rcr72.waw04.cdn112.com/hls2/03/07327/3yvicre1zaqv_h/master.m3u8?t=mbC5qkqpAycvrZsFav5LlZDo7aoL67acBGQpkgeAWbc&s=1731872978&e=10800&f=36636555&srv=52&asn=268655&sp=4000&p=
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Arcane S01 Ep 1" tvg-logo="https://image.tmdb.org/t/p/w185/abf8tHznhSvl9BAElD2cQeRr7do.jpg" group-title="Série | Netflix",Arcane S01 Ep 1
 https://be7713.rcr82.waw05.cdn112.com/hls2/01/03155/iqkrxsn5s5l2_o/master.m3u8?t=7I0FGdXlRIapEqJowZ6dAX80-0BMfe6EWqZmk8CaO70&s=1731872222&e=10800&f=28539184&srv=06&asn=268655&sp=4000&p=
 #EXTINF:-1 tvg-id="" tvg-name="Arcane S01 Ep 2" tvg-logo="https://image.tmdb.org/t/p/w185/abf8tHznhSvl9BAElD2cQeRr7do.jpg" group-title="Série | Netflix",Arcane S01 Ep 2
