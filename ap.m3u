@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTGRP:Séries
+#EXTGRP:Series
 #EXTINF:-1 tvg-id="" tvg-name="Arcane S01 Ep 1" tvg-logo="https://cdn.weekseries.info/imagens/946052_size.webp" group-title="Série | Netflix",Arcane S01 Ep 1
 https://balance-gg.sxrool.pw/A/arcane/01-temporada/01/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Arcane S01 Ep 2" tvg-logo="https://cdn.weekseries.info/imagens/946052_size.webp" group-title="Série | Netflix",Arcane S01 Ep 2
@@ -19,8 +19,7 @@ https://balance-gg.sxrool.pw/A/arcane/01-temporada/08/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Arcane S01 Ep 9" tvg-logo="https://cdn.weekseries.info/imagens/946052_size.webp" group-title="Série | Netflix",Arcane S01 Ep 9
 https://balance-gg.sxrool.pw/A/arcane/01-temporada/09/stream.m3u8
 
-
-
+#EXTGRP:filmes
 #EXTINF:-1 tvg-id="" tvg-name="Berlim – La Casa de Papel S01 Ep 1" tvg-logo="https://noveflix.net/wp-content/uploads/2024/06/aOv5c4PJmQn3sBdrGVThVIyxQpH-200x300.jpg" group-title="Série | Netflix",Berlim – La Casa de Papel S01 Ep 1
 https://novelasflix.vip/storagePSN/SERIES/BERLIM/BERLIM1x01.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Berlim – La Casa de Papel S01 Ep 2" tvg-logo="https://noveflix.net/wp-content/uploads/2024/06/aOv5c4PJmQn3sBdrGVThVIyxQpH-200x300.jpg" group-title="Série | Netflix",Berlim – La Casa de Papel S01 Ep 2
@@ -37,7 +36,6 @@ https://novelasflix.vip/storagePSN/SERIES/BERLIM/BERLIM1x06.mp4
 https://novelasflix.vip/storagePSN/SERIES/BERLIM/BERLIM1x07.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Berlim – La Casa de Papel S01 Ep 8" tvg-logo="https://noveflix.net/wp-content/uploads/2024/06/aOv5c4PJmQn3sBdrGVThVIyxQpH-200x300.jpg" group-title="Série | Netflix",Berlim – La Casa de Papel S01 Ep 8
 https://novelasflix.vip/storagePSN/SERIES/BERLIM/BERLIM1x08.mp4
-
 
 #EXTINF:-1 tvg-id="" tvg-name="Parasyte: The Grey S01 Ep 1" tvg-logo="https://noveflix.net/wp-content/uploads/2024/06/hHsIpoLBD3OIzEa9TBkSpIZaQyD-203x300.jpg" group-title="Série | Netflix",Parasyte: The Grey S01 Ep 1
 https://novelasflix.vip/storagePSN/SERIES/PARASYTE/PARASYTE1x01.mp4
