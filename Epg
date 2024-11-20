@@ -1,0 +1,20 @@
+<tv>
+    <programme start="20230101180000 +0000" stop="20230101183000 +0000" channel="arcane_s02e04">
+        <title>Arcane S02 E04</title>
+        <desc>Descrição do episódio 4 de Arcane</desc>
+        <category>Séries</category>
+        <image>https://media.themoviedb.org/t/p/w94_and_h141_bestv2/abf8tHznhSvl9BAElD2cQeRr7do.jpg</image>
+    </programme>
+    <programme start="20230101183000 +0000" stop="20230101190000 +0000" channel="arcane_s02e05">
+        <title>Arcane S02 E05</title>
+        <desc>Descrição do episódio 5 de Arcane</desc>
+        <category>Séries</category>
+        <image>https://media.themoviedb.org/t/p/w94_and_h141_bestv2/abf8tHznhSvl9BAElD2cQeRr7do.jpg</image>
+    </programme>
+    <programme start="20230101190000 +0000" stop="20230101193000 +0000" channel="arcane_s02e06">
+        <title>Arcane S02 E06</title>
+        <desc>Descrição do episódio 6 de Arcane</desc>
+        <category>Séries</category>
+        <image>https://media.themoviedb.org/t/p/w94_and_h141_bestv2/abf8tHznhSvl9BAElD2cQeRr7do.jpg</image>
+    </programme>
+</tv>
